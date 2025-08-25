@@ -19,6 +19,9 @@
 ---
 ### ***From Framework to gap analysis***
 ال gap-analysis بتعرفك انت مشيت على الفريموورك بنسبة قد ايه بالظبط. يعني مثلا انت حاطط فريموورك تمشي عليها الشركه زي physical sec, antivirus وهكذا. بتشوف بقا الشركة عندها ايه او مطبقة ايه منهم.
+<p align ="center">
+    <img src= "../photo/frameworkgap.svg" alt = "framework gap"
+</p>
 
 ---
 ### ***Access Control***
