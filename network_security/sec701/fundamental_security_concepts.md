@@ -16,6 +16,10 @@
 
 مبدأ عدم الانكار يعني لازم اي اكشن يحصل لازم يكون متسجل مين عمله والساعه كام وازاي؟
 
+<p align ="center">
+    <img src= "../photo/ciaa.svg" alt = "framework gap"
+</p>
+    
 ---
 ### ***From Framework to gap analysis***
 ال gap-analysis بتعرفك انت مشيت على الفريموورك بنسبة قد ايه بالظبط. يعني مثلا انت حاطط فريموورك تمشي عليها الشركه زي physical sec, antivirus وهكذا. بتشوف بقا الشركة عندها ايه او مطبقة ايه منهم.
@@ -40,6 +44,10 @@
 **Accounting**  = ***Auditing*** = ***Logging*** = ***Monitoring*** => **Reporting**
 
 بتتابع نشاط شخص عشان لو حصل مشكله تعرف حصلت ازاي؟
+<p align ="center">
+    <img src= "../photo/access_control.svg" alt = "framework gap"
+</p>
+
 
 ---
 ### ***SECURITY CONTROL CATERGORIES***
@@ -120,4 +128,8 @@
     
 - المخاطرة تظهر **فقط** لما يجتمعوا مع بعض.
 
----
+
+<p align ="center">
+    <img src= "../photo/risk.svg" alt = "framework gap"
+</p>
+
