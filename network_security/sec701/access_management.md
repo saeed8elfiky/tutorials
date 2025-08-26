@@ -2,7 +2,7 @@
 
 
 <p align ="center">
-    <img src= "../network_security/photo/access_mananagement.svg" alt = "access management"
+    <img src= "../photo/access_mananagement.svg" alt = "access management"
 </p>
   
 ----
