@@ -2,7 +2,7 @@
 ### **Cloud Deployment Models**
 
 <p align ="center">
-    <img src= "../network_security/photo/cloud_deployment_model.svg" alt = "cloud deployment"
+    <img src= "/network_security/photo/cloud_deployment_model.svg" alt = "cloud deployment"
 </p>
 
 #### Public Cloud 
@@ -104,7 +104,7 @@
 #### IaaS (Infrastructure as a Service)
 
 <p align ="center">
-    <img src= "../network_security/photo/iaas.svg" alt = "cloud service"
+    <img src= "/network_security/photo/iaas.svg" alt = "cloud service"
 </p>
 
  بيوفرلك البنية التحتية الأساسية (سيرفرات، تخزين، شبكات) كخدمة سحابية.
@@ -124,7 +124,7 @@
 #### SaaS (Software as a Service)
 
 <p align ="center">
-    <img src= "../network_security/photo/saas.svg" alt = "cloud service"
+    <img src= "/network_security/photo/saas.svg" alt = "cloud service"
 </p>
 
 برامج جاهزة للمستخدم العادي عبر الإنترنت والمستخدم يستهلك الخدمة مباشرة (من غير أي إعدادات تحتية)
@@ -143,7 +143,7 @@
 ---
 #### PaaS (Platform as a Service)
 <p align ="center">
-    <img src= "../network_security/photo/paas.svg" alt = "cloud service"
+    <img src= "/network_security/photo/paas.svg" alt = "cloud service"
 </p>
 
 
