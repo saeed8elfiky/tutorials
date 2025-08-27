@@ -1,4 +1,4 @@
-# Defence in Depth Network
+# Defense in Depth Network
 
 <p align ="center">
     <img src= "/network_security/photo/defence_in_depth.svg" alt = "cloud deployment"
@@ -12,7 +12,7 @@
 زي فكرة **البصل** 🧅: كل طبقة حماية حوالين البيانات المهمة.
 
 
-### Depth in Depth Levels
+### Defense in Depth Levels
 #### **Perimeter Security (الأطراف)**
 
 دي أول طبقة، زي
