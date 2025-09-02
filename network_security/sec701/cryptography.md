@@ -1,6 +1,10 @@
 # Cryptography
 ### Content Table
 - [Managing Administrative Access](#Managing_Administrative_Access)
+- [Authentication](#Authentication)
+- [Nonrepudiation](#Nonrepudiation)
+- [Data Integrity](#Data_Integrity)
+- [Data Confidentiality](#Data_Confidentiality)
 - [History of Cryptography](#History_of_Cryptography)
 - [Cipher Text](#Cipher_Text)
 - [Cryptanalysis](#Cryptanalysis)
@@ -128,7 +132,7 @@
 المستقبل يعيد حساب الهاش لو مطابق يبقى البيانات سليمة، لو مختلف يبقى حصل تعديل
 
 ---
-### Data Confidentiality
+### Data_Confidentiality
 
 **الحفاظ على خصوصية الرسالة** بحيث ما حدش يقدر يقرأها غير المستقبل الصحيح.
 والهدف منها حتى لو الرسالة اترفعت أو اتسجلت وهي ماشية في الشبكة ما ينفعش يتفهم محتواها.
