@@ -1,16 +1,16 @@
 ### Content Table
-- [Managing Administrative Access](### Managing Administrative Access)
-- [History of Cryptography](## History of Cryptography)
-- [Cipher Text](## Cipher Text)
-- [Cryptanalysis](## Cryptanalysis)
-- [Cryptology](## Cryptology)
-- [Hashing](## Hashing)
-- [Hash for Integrity](## Hash for Integrity)
+- [Managing Administrative Access](###Managing_Administrative_Access)
+- [History of Cryptography](##History_of_Cryptography)
+- [Cipher Text](##Cipher_Text)
+- [Cryptanalysis](##Cryptanalysis)
+- [Cryptology](##Cryptology)
+- [Hashing](##Hashing)
+- [Hash for Integrity](##Hash_for_Integrity)
 
 ---
 
 
-### ***Managing Administrative Access***
+### ***Managing_Administrative_Access***
 إدارة الوصول الإداري هدفها حماية **من له الصلاحيات** عشان يمنع أي شخص غير مخوّل من التحكم في الأجهزة أو الشبكة.
 
 
@@ -103,7 +103,7 @@
 
 
 ---
-### Data Integrity
+### Data_Integrity
 
 معناها انك تتأكد إن **الرسالة أو البيانات ما اتغيرتش** أثناء انتقالها.
 
@@ -175,7 +175,7 @@
     - مثال: RSA
 
 ---
-## **History of Cryptography**
+## **History_of_Cryptography**
 ### Caesar Cipher
 
 هو نوع بدائي من التشفير استخدمه يوليوس قيصر علشان يحمي رسائله.
@@ -210,7 +210,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 
 ---
-## **Cipher Text**
+## **Cipher_Text**
 السيفر هو خوارزمية أو خطوات محددة بتتعمل علشان نشفر أو نفك التشفير للرسائل.
 
 يعني طريقة رياضية او منطقية بتحول النص العادي لنص مش مفهوم والعكس.
@@ -381,7 +381,7 @@ D=E
 يستخدم في **كلمات المرور** و **التوقيع الرقمي** للتحقق من الهوية.
 
 ---
-## Hash for Integrity
+## Hash_for_Integrity
 
 
 الـهاش بيضمن إن الرسالة **ما اتغيرتش بالغلط** (زي ايرور في الشبكة).
