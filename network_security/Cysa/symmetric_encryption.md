@@ -1,8 +1,10 @@
+# Symmetric Encryption
+
 <p align ="center">
     <img src= "/network_security/photo/symmetric_encryption.svg" alt = "symmetric_encryption"
 </p>
 
-# Symmetric Encryption
+
 ### ***Phase - Zero***
 دي المرحله اللي انت بتقرر فبها تبعت الرساله وبتحدد المفتاح اللي هتعمل بيه التشفير
 المفتاح ده بيبقى **نفسه** اللي هيستخدم في التشفير وفك التشفير.
