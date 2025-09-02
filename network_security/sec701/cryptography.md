@@ -1,16 +1,17 @@
+# Cryptography
 ### Content Table
-- [Managing Administrative Access](###Managing_Administrative_Access)
-- [History of Cryptography](##History_of_Cryptography)
-- [Cipher Text](##Cipher_Text)
-- [Cryptanalysis](##Cryptanalysis)
-- [Cryptology](##Cryptology)
-- [Hashing](##Hashing)
+- [Managing Administrative Access](#Managing_Administrative_Access)
+- [History of Cryptography](#History_of_Cryptography)
+- [Cipher Text](#Cipher_Text)
+- [Cryptanalysis](#Cryptanalysis)
+- [Cryptology](#Cryptology)
+- [Hashing](#Hashing)
 - [Hash for Integrity](##Hash_for_Integrity)
 
 ---
 
 
-### ***Managing_Administrative_Access***
+## ***Managing_Administrative_Access***
 إدارة الوصول الإداري هدفها حماية **من له الصلاحيات** عشان يمنع أي شخص غير مخوّل من التحكم في الأجهزة أو الشبكة.
 
 
