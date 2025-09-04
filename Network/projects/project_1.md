@@ -1,4 +1,5 @@
-Router's password: saeed
+Router : ISR4331
+SWITCH: 2960
 
 ### Router Setting
 interface gig0/0/0
