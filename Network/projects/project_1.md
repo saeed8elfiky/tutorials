@@ -12,6 +12,7 @@ enable
 conf t
 interface gig0/0/0
 ip address 10.0.0.1 255.255.255.240
+no shutdown
 exit
 end
 write memory
@@ -20,6 +21,7 @@ write memory
 conf t
 interface gig0/0/1
 ip address 10.0.0.17 255.255.255.248
+no shutdown
 exit
 end
 write memory
@@ -31,6 +33,7 @@ enable
 conf t
 interface vlan 1
 ip address 10.0.0.2 255.255.255.240
+no shutdown
 exit
 ip default-gateway 10.0.0.1
 exit
@@ -73,6 +76,7 @@ enable
 conf t
 interface vlan 1
 ip address 10.0.0.18 255.255.255.248
+no shutdown
 exit
 ip default-gateway 10.0.0.17
 exit
