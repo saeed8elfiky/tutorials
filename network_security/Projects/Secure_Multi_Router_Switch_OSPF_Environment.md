@@ -4,6 +4,7 @@
     <img src= "/network_security/photo/network_diagram.png" alt = "access management"
 </p>
 
+
 This project is a **Network Security Lab** built with **Cisco ISR 4331 routers** and **ISR switches**.
 The goal is not only to configure a functional multi-subnet environment with **OSPF routing**, but also to **secure the infrastructure** against unauthorized access.
 
@@ -53,6 +54,7 @@ ex
 enable secret cisco
 line console 0
 password cisco
+login
 exit
 
 service password-encryption
@@ -84,6 +86,7 @@ ip default-gateway 192.168.1.1
 enable secret cisco
 line console 0
 password cisco
+login
 exit
 
 service password-encryption
@@ -129,6 +132,7 @@ ex
 enable secret cisco
 line console 0
 password cisco
+login
 exit
 
 service password-encryption
@@ -136,7 +140,7 @@ service password-encryption
 
 ip domain-name saeed.local
 crypto key generate rsa
-
+1024
 
 username saeed secret cisco
 line vty 0 4
@@ -159,6 +163,7 @@ ip default-gateway 192.168.1.17
 enable secret cisco
 line console 0
 password cisco
+login
 exit
 
 service password-encryption
@@ -190,6 +195,7 @@ ip default-gateway 192.168.1.25
 enable secret cisco
 line console 0
 password cisco
+login
 exit
 
 service password-encryption
@@ -242,6 +248,7 @@ ex
 enable secret cisco
 line console 0
 password cisco
+login
 exit
 
 service password-encryption
@@ -297,6 +304,7 @@ ex
 enable secret cisco
 line console 0
 password cisco
+login
 exit
 
 service password-encryption
@@ -355,4 +363,5 @@ network 192.168.1.16 0.0.0.7 area 0
 network 192.168.1.24 0.0.0.7 area 0
 ex
 ```
+
 
