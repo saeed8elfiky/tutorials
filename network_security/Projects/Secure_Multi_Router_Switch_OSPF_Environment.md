@@ -36,12 +36,12 @@ The project focuses on **securing administrative access** to networking devices:
         
 - Disabled insecure access methods (Telnet) in favor of **SSH only**
 ---
+## Sample Configuration
+
 ### Subnet 1: 192.168.1.0/28
 - R1 gig0/0/0 => 192.168.1.1
 - S1 => 192.168.1.2
 - PCs: 192.168.1.3 <-> 192.168.1.8
-
-## Sample Configuration
 
 #### R1 Conf
 ```
