@@ -206,7 +206,7 @@ PCs: `192.168.1.3` <-> `192.168.1.8`
 ---
 ## Need More Details?
 This README contains the project overview, subnet plan, and sample configurations.  
-If you would like the **full configuration files and additional documentation**, feel free to contact me on **[LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/saeed-elfiky-61188b24b/))**.  
+If you would like the **full configuration files and additional documentation**, feel free to contact me on **[LinkedIn](https://www.linkedin.com/in/saeed-elfiky-61188b24b/)**.  
 
 
   
