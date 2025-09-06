@@ -34,6 +34,13 @@ The network implements **subnetting**, **OSPF routing**, and **security best pra
 
 ## 🔒 Security Features
 - SSH enabled on all routers and switches
+    - Domain name: `saeed.local`
+        
+    - RSA cryptographic keys
+        
+    - Local user accounts with **secret passwords**
+        
+- Disabled insecure access methods (Telnet) in favor of **SSH only**
 - `enable secret` configured on every device
 - `service password-encryption` enabled
 - Console & VTY lines protected with login & password
