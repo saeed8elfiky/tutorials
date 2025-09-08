@@ -380,4 +380,4 @@
 - أسرع وأكمل حل، لكنه مكلف وصعب التنفيذ.
 
 ---
-#### 
+### **Feel free to contact me on** **[LinkedIn](https://www.linkedin.com/in/saeed-elfiky-61188b24b/)**.
