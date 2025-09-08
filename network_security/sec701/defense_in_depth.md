@@ -83,3 +83,7 @@ VLANs / Subnets (IT, HR, DB, DMZ).
 بما إن مفيش سياسه بين Inside و DMZ، ده معناه إن **مفيش تواصل مباشر**.
 
 أي اتصال لازم يتعمله Explicit Policy لو الشركة عايزة (مثلاً: Admins يدخلوا على الـWeb Server للإدارة).
+
+---
+
+### **Feel free to contact me on** **[LinkedIn](https://www.linkedin.com/in/saeed-elfiky-61188b24b/)**.
