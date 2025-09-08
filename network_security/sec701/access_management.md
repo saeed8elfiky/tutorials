@@ -100,3 +100,6 @@ Based on `UAC` and `sudo`
 
 🔑 يعني ببساطة بيأمن ويدير الحسابات “القوية” اللي ممكن تفتح كل الأبواب.
 
+---
+
+### **Feel free to contact me on** **[LinkedIn](https://www.linkedin.com/in/saeed-elfiky-61188b24b/)**.
