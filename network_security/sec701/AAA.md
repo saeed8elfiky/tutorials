@@ -87,7 +87,6 @@ AAA (Authentication, Authorization, and Accounting)
 
 
 #### 1. Local AAA Authentication
-**الوصف**:
  
   - يعتمد على قاعدة بيانات محلية موجودة على نفس الجهاز
   - كل المستخدمين وكلمات المرور لازم يتم تكوينهم يدويًا على الجهاز نفسه.
@@ -99,25 +98,29 @@ AAA (Authentication, Authorization, and Accounting)
 
 #### 2. Server-Based AAA Authentication
 
-  - يعتمد على **خادم مركزي** (مثل: Cisco Secure ACS for Windows).
+  - يعتمد على **خادم مركزي**
+ (مثل: Cisco Secure ACS for Windows).
   - الخادم يحتوي على أسماء المستخدمين وكلمات المرور لجميع المستخدمين.
 
 **البروتوكولات المستخدمة**:
+
   - RADIUS
   - TACACS+  
   
 **الفائدة**: الإدارة أسهل وأكتر مركزية بدل ما تعرّف الحسابات يدويًا على كل جهاز.
 
 ---
-### Authorization (التفويض)
+### Authorization
 
-**الوصف**:  
+  
   بعد ما المستخدم يتم **مصادقته** (اوثينتيكيشن) باستخدام مصدر بيانات `تريبل اي` (سواء **محلي** أو **على سيرفر**)،  
-  يتم **تحديد الصلاحيات** الخاصة به:  
+  يتم **تحديد الصلاحيات** الخاصة به:
+  
   - الموارد المسموح له الوصول إليها.  
   - العمليات المسموح له تنفيذها.  
 
-**الفائدة**:  
+**الفائدة**:
+  
   يضمن إن كل مستخدم يشتغل بالصلاحيات المخصصة له فقط 
   
   (Principle of Least Privilege). 
@@ -126,7 +129,7 @@ AAA (Authentication, Authorization, and Accounting)
   "المستخدم سعيد يقدر يدخل على **سيرفر 2** باستخدام **SSH فقط**."
 
 ----
-### AAA - الـ Accounting
+### AAA - Accounting
 
 **يعني إيه؟**  
   الاكونتينج بيتعمل عن طريق سيرفر تريبل اي (زي ACS).  
@@ -135,7 +138,7 @@ AAA (Authentication, Authorization, and Accounting)
 
 
 
-#### أنواع الـ Accounting:
+####  Types of Accounting:
 
 1. **Network Accounting**  
 
