@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 This project demonstrates the design and configuration of a secure enterprise network using **Cisco devices**.  
-The network implements **subnetting**, **OSPF routing**, and **security best practices** such as **SSH access**, **encrypted and hashed passwords**, and **local authentication**.
+The network implements **subnetting**, **OSPF routing**, and **security best practices** such as **SSH access**, **encrypted and hashed passwords**, and **local authentication**, **RADIUS authentication**, **TACACS+ authentication**. Also **NTP synchronization** and **Centralized Syslog logging**.
 
 ---
 
@@ -44,7 +44,13 @@ The network implements **subnetting**, **OSPF routing**, and **security best pra
 - `enable secret` configured on every device
 - `service password-encryption` enabled
 - Console & VTY lines protected with login & password
-- Local authentication using: `username saeed secret cisco`
+- AAA Authentication:
+    - Local accounts (username saeed secret cisco)
+    - RADIUS server authentication
+    - TACACS+ server authentication
+    - Network services:
+    - NTP server for time synchronization
+    - Syslog server for centralized log collection
 
   ---
 
